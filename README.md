@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmad Faraz</h1>
 <h3 align="center">A passionate Django Backend developer from Pakistan</h3>
 
-- 🌱 I’m currently learning **Django,FastAPI,JS,Bootstrap**
+- 🌱 I’m currently learning **Django, FastAPI, JS, Bootstrap**
 
 - 💬 Ask me about **Django, Web development**
 
