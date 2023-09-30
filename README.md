@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ahmad Faraz</h1>
 <h3 align="center">A passionate Django Backend developer from Pakistan</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadfaraz2&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadfaraz2" /> </p>
+
+<p align="left"> <a href="https://twitter.com/ahmadfaraz_08" target="blank"><img src="https://img.shields.io/twitter/follow/ahmadfaraz_08?logo=twitter&style=for-the-badge" alt="ahmadfaraz_08" /></a> </p>
+
 - 🌱 I’m currently learning **Django,FastAPI,JS,Bootstrap**
 
 - 💬 Ask me about **Django, Web development**
@@ -19,4 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmadfaraz2&show_icons=true&locale=en&layout=compact" alt="ahmadfaraz2" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadfaraz2&show_icons=true&locale=en" alt="ahmadfaraz2" /></p>
-
