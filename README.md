@@ -3,6 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadfaraz2&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadfaraz2" /> </p>
 
+
+[![wakatime](https://wakatime.com/badge/user/50fe4de2-542d-48bb-8f51-cad91f7f693b.svg)](https://wakatime.com/@50fe4de2-542d-48bb-8f51-cad91f7f693b)
+
+
 <p align="left"> <a href="https://twitter.com/ahmadfaraz_08" target="blank"><img src="https://img.shields.io/twitter/follow/ahmadfaraz_08?logo=twitter&style=for-the-badge" alt="ahmadfaraz_08" /></a> </p>
 
 - 🌱 I’m currently learning **Django,FastAPI,JS,Bootstrap**
