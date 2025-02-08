@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Django, FastAPI, JS, Bootstrap**
 
-- 💬 Ask me about **Django, Web development**
+- 💬 Ask me about **Backend, Django, Web development**
 
 - 📫 How to reach me **ahmadfarazjanjua780@gmail.com**
 
