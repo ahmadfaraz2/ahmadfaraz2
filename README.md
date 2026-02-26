@@ -27,3 +27,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmadfaraz2&show_icons=true&locale=en&layout=compact" alt="ahmadfaraz2" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadfaraz2&show_icons=true&locale=en" alt="ahmadfaraz2" /></p>
+<figure><embed src="https://wakatime.com/share/@Ahmad/b0cb35c1-f8cc-46af-aaa4-3e7c18572fff.svg"></embed></figure>
